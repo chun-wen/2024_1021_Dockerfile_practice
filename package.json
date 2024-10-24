@@ -1,0 +1,12 @@
+{
+  "name": "2024_1021_dockerfile_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
